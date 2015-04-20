@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+	<pizza>
+			<id>1</id>
+			<nom>EXTREME</nom>
+			<composicio>Masa fresca, salsa de tomate, mozzarella, pimiento fresco, champiñones frescos, pechuga de pollo y extra de mozzarella.</composicio>
+			<foto>extreme.png</foto>
+	</pizza>
+	<pizza>
+			<id>2</id>
+			<nom>BOLOÑESA</nom>
+			<composicio>Masa fresca, salsa boloñesa, mozzarella, jamón, champiñones frescos y queso de cabra.</composicio>
+			<foto>bolonesa.png</foto>
+	</pizza>
+	<pizza>
+			<id>3</id>
+			<nom>TABLA DE QUESOS</nom>
+			<composicio>Masa fresca, salsa de tomate, mozzarella, gruyère, queso de cabra y nuestra mezcla especial de 3 quesos.</composicio>
+			<foto>tabla-de-quesos.png</foto>
+	</pizza>
+	<pizza>
+			<id>4</id>
+			<nom>CABRESSE</nom>
+			<composicio>Masa fresca, salsa de tomate, mozzarella, champiñones frescos, bacon, tomate natural y queso de cabra.</composicio>
+			<foto>cabresse.png</foto>
+	</pizza>
+	<pizza>
+			<id>5</id>
+			<nom>BARBACOA SUPREME</nom>
+			<composicio>Masa fresca, salsa carbonara, mozzarella, bacon, ternera, pechuga de pollo y salsa barbacoa.</composicio>
+			<foto>barbacoa-supreme.png</foto>
+	</pizza>
+	<pizza>
+			<id>6</id>
+			<nom>CARIBEÑA</nom>
+			<composicio>Masa fresca, salsa de tomate, doble de jamón, piña y extra de mozzarella.</composicio>
+			<foto>caribena.png</foto>
+	</pizza>
+	<pizza>
+			<id>7</id>
+			<nom>3 QUESOS</nom>
+			<composicio>Masa fresca, salsa de tomate, mozzarella y nuestra mezcla especial de 3 quesos.</composicio>
+			<foto>3-quesos.png</foto>
+	</pizza>
+	<pizza>
+			<id>8</id>
+			<nom>FANTASÍA</nom>
+			<composicio>Masa fresca, salsa de tomate, mozzarella, jamón, champiñones frescos, extra de mozzarella, gratinado con nuestra mezcla especial 3 quesos.</composicio>
+			<foto>fantasia.png</foto>
+	</pizza>
+	<pizza>
+			<id>9</id>
+			<nom>MEDITERRÁNEA</nom>
+			<composicio>Masa fresca, salsa de tomate, mozzarella, atún, anchoas, tomate natural y extra de mozzarella.</composicio>
+			<foto>mediterranea.png</foto>
+	</pizza>
+	<pizza>
+			<id>10</id>
+			<nom>CLÁSICA</nom>
+			<composicio>Masa fresca, salsa de tomate, mozzarella, jamón, bacon, champiñones frescos y extra de mozzarella.</composicio>
+			<foto>clasica.png</foto>
+	</pizza>
+	<pizza>
+			<id>11</id>
+			<nom>GRANDBURGER</nom>
+			<composicio>Masa fresca, salsa de tomate, mozzarella, doble de bacon, doble de ternera y extra de mozzarella.</composicio>
+			<foto>grandburger.png</foto>
+	</pizza>
+	<pizza>
+			<id>12</id>
+			<nom>CAMPERA</nom>
+			<composicio>Masa fresca, salsa de tomate, mozzarella, pechuga de pollo, bacon, tomate natural, gruyère y extra de mozzarella.</composicio>
+			<foto>campera.png</foto>
+	</pizza>
+	<pizza>
+			<id>13</id>
+			<nom>ESPECIAL</nom>
+			<composicio>Masa fresca, salsa de tomate, mozzarella, jamón, champiñones frescos, ternera, cebolla natural, extra de mozzarella, y nuestro acabado de Gruyère.</composicio>
+			<foto>especial.png</foto>
+	</pizza>
+	<pizza>
+			<id>14</id>
+			<nom>BARBACOA</nom>
+			<composicio>Masa fresca, salsa barbacoa, mozzarella, doble de ternera, jamón, salchicha y extra de mozzarella.</composicio>
+			<foto>barbacoa.png</foto>
+	</pizza>
+	<pizza>
+			<id>15</id>
+			<nom>CARBONARA</nom>
+			<composicio>Masa fresca, salsa carbonara, mozzarella, ternera, bacon, cebolla natural y extra de mozzarella.</composicio>
+			<foto>carbonara.png</foto>
+	</pizza>
+	<pizza>
+			<id>16</id>
+			<nom>MEXICANA</nom>
+			<composicio>Masa fresca, salsa picante, mozzarella, chorizo picante, ternera, cebolla natural y extra de mozzarella.</composicio>
+			<foto>mexicana.png</foto>
+	</pizza>
+</root>
+		
+
+
+
